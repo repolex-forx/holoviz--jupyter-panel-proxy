@@ -1,0 +1,11 @@
+{
+  "org": "holoviz",
+  "repo": "jupyter-panel-proxy",
+  "versions": [
+    {
+      "commit": "d1a929931268ea96ad4074fe5fe2c1d11d4fb4af",
+      "tag": "v0.2.0",
+      "parsed_at": "2026-10-21T03:02:19.707210+00:00"
+    }
+  ]
+}
