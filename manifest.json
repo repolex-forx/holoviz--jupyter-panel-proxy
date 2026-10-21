@@ -27,7 +27,8 @@
       ],
       "ast": [
         "aggregate/ast/d1a929931268ea96ad4074fe5fe2c1d11d4fb4af/chunk-001.nq.gz"
-      ]
+      ],
+      "repolex": "aggregate/repolex/d1a929931268ea96ad4074fe5fe2c1d11d4fb4af/chunk-001.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/holoviz/jupyter-panel-proxy/commit/d1a929931268ea96ad4074fe5fe2c1d11d4fb4af",
       "git:hexsha": "d1a929931268ea96ad4074fe5fe2c1d11d4fb4af",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.2.0rc4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.2.0rc4",
+      "repolex:parsedAt": "2026-10-21T03:02:19.706677+00:00"
     },
     {
       "@id": "https://repolex.ai/r/holoviz/jupyter-panel-proxy/commit/9cd083de776bffe44b9ebf2ecef659d39c3a2c1e",
