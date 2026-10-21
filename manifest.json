@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "holoviz",
+  "repo": "jupyter-panel-proxy",
+  "versions": [
+    {
+      "commit": "d1a929931268ea96ad4074fe5fe2c1d11d4fb4af",
+      "parsed_at": "2026-10-21T02:59:25.757163+00:00",
+      "tag": "v0.2.0",
+      "filetree": "filetree/d1a929931268ea96ad4074fe5fe2c1d11d4fb4af.nq.gz",
+      "blobs": [
+        "blob/b347c393bebd72d3959a63e854e9bfb7a977e878.nq.gz",
+        "blob/14571c0bdb1aeb6368254871a37436f4d7f08bef.nq.gz",
+        "blob/a365c0d76f3e5a846125760c17f10ed6a3121cda.nq.gz",
+        "blob/e6a7440baee0f7c0d1f8393f3b031451a927b8c1.nq.gz",
+        "blob/453936096ba0c6b388b57485943065a82f69f836.nq.gz",
+        "blob/fe004dee397c2dd75e0c27ab8a261783bd58b3f0.nq.gz",
+        "blob/6a1a36734f20ccd3c580d4163217a7704523b32f.nq.gz",
+        "blob/dddb91b8e9692c3203f8b33c3b01dba2c6f84bd7.nq.gz",
+        "blob/a64af2f422e89b9f197b4400ce7dc7db83e06e99.nq.gz",
+        "blob/e53d969180160a0b6c7dea392250da05fc4bb629.nq.gz",
+        "blob/a30ddd9cc77186db1ff00f456911ad4c2cc65ddf.nq.gz",
+        "blob/f82f53700a941ffebd4cd43c9a38590206746aa9.nq.gz",
+        "blob/dec1f43251435af8fef5f81c1e1fc0ced5782c42.nq.gz",
+        "blob/3e39800f54b0540b766a3c622da045c553962d0e.nq.gz",
+        "blob/ae4ffbfb0e65e3591b6431edd00cd16f25a06d4b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
